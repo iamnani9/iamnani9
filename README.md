@@ -1,5 +1,4 @@
-## Hi there 👋
-### 👋 Hi, I'm Nani!
+## Hi there,I'm Nani! 👋
 
 I'm a 1st-year BTech ECE student with a passion for **coding, development**, and **problem-solving**. Even though I'm from an electronics background, my heart is in software!
 
