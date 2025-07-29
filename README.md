@@ -25,8 +25,8 @@ I'm a 1st-year BTech ECE student with a passion for **coding, development**, and
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Add yours when ready]
-- Email: nani574@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/swami-nani-148736377/)]
+- Email: twitternani574@gmail.com
 
 <!--
 **iamnani9/iamnani9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
